@@ -1,5 +1,6 @@
 # LAMBDA TRANSIT
 
-/admin/ - django admin view
-/stations/ - station list views
-/init/ - kick of lambda transit simulation
+
+<font color="green">**/admin/** </font>- django admin view <br>
+<font color="green">**/stations/** </font>- station list views <br>
+<font color="green">**/init/** </font>- kick of lambda transit simulation
