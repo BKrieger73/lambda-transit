@@ -1,6 +1,6 @@
 # LAMBDA TRANSIT
 
 
-<font color="lime"><b>/admin/</b> </font>- django admin view <br>
-<font color="lime"><b>/stations/</b> </font>- station list views <br>
-<font color="lime"><b>/init/</b> </font>- kick of lambda transit simulation
+<samp style="color:lime"><b>/admin/</b> </samp>- django admin view <br>
+<samp style="color:lime"><b>/stations/</b> </samp>- station list views <br>
+<samp style="color:lime"><b>/init/</b> </samp>- kick of lambda transit simulation
